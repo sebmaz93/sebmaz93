@@ -83,7 +83,7 @@ The future is unwritten, but with technology as our tool, I believe we can sculp
 
 [//]: [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ff5b3d5ce9f4ca58b52411?variant=dark)](https://roadmap.sh)
 
-[![Most Used Languages - refresh if not loaded](https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=dracula&count_private=true&hide=html,shell,powershell,handlebars,vue,scss&size_weight=0.5&count_weight=0.5)](https://github.com/sebmaz93/github-readme-stats)
+[![Most Used Languages - refresh if not loaded](https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=5&theme=dracula&count_private=true&hide=javascript,css,html,shell,powershell,dockerfile,handlebars,vue,python,scss&size_weight=0&count_weight=1&show_icons=true)](https://github.com/sebmaz93/github-readme-stats)
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/b7d4edcd-13d3-472c-9f39-1e619c08de83/thumbnail" >
 </p>
