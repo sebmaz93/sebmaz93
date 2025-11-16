@@ -83,7 +83,7 @@ The future is unwritten, but with technology as our tool, I believe we can sculp
 
 [//]: [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ff5b3d5ce9f4ca58b52411?variant=dark)](https://roadmap.sh)
 
-[![Most Used Languages - refresh if not loaded](https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&theme=dracula&count_private=true&hide=javascript,css,html,shell,powershell,dockerfile,handlebars,vue,python,astro,scss,mdx&size_weight=0&count_weight=1&hide_title=true&card_width=640)](https://github.com/sebmaz93/github-readme-stats)
+[![Most Used Languages - refresh if not loaded](https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&theme=dracula&count_private=true&hide=javascript,css,html,shell,powershell,dockerfile,handlebars,vue,python,astro,scss,mdx&size_weight=0&count_weight=1&hide_title=true&card_width=1000)](https://github.com/sebmaz93/github-readme-stats)
 
 [//]: # ([![sebmaz93's github stats]&#40;https://github-readme-stats-sebmaz93.vercel.app/api?username=sebmaz93&count_private=tru&show_icons=true&include_all_commits=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
 
