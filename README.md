@@ -1,6 +1,6 @@
 ## 🧔‍♂️ Hi I'm _Seb_  
 
-Welcome to my GitHub profile, I'm a Software Engineer since (2016) with a deep passion for Galaxy and Quantum physics 🪐🧑🏻‍🚀. 
+a Senior Software Engineer since (2016) with a deep passion for Galaxy and Quantum physics 🪐🧑🏻‍🚀. 
 
 My coding philosophy? Write code that's both efficient and easy to read. I'm dedicated to making tech enjoyable and impactful.
 The future is unwritten, but with technology as our tool, I believe we can sculpt groundbreaking wonders.
