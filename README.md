@@ -43,7 +43,7 @@ The future is unwritten, but with technology as our tool, I believe we can sculp
 <a href="https://ziglang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="zig" title="zig" width="45" height="40"/> </a>
 <a href="https://www.haskell.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" title="haskell" width="45" height="40"/> </a>
 
-<a href="https://stackoverflow.com/users/7857368/sebmaz"><img src="https://stackoverflow.com/users/flair/7857368.png" width="208" height="58" alt="profile for SebMaz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SebMaz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/7857368/sebmaz"><img src="https://stackoverflow.com/users/flair/7857368.png" width="320" height="90" alt="profile for SebMaz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SebMaz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [//]: # (<p>)
 
