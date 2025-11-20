@@ -1,11 +1,11 @@
 ## 🧔‍♂️ Hi I'm _Seb_  
 
-a Senior Software Engineer since (2016) with a deep passion for Galaxy and Quantum physics 🪐🧑🏻‍🚀. 
+a Senior Software Engineer since 2016 with a deep passion for Galaxy and Quantum physics 🪐🧑🏻‍🚀. 
 
 My coding philosophy? Write code that's both efficient and easy to read. I'm dedicated to making tech enjoyable and impactful.
 The future is unwritten, but with technology as our tool, I believe we can sculpt groundbreaking wonders.
 
-**🛠 Languages and tools :**
+**🛠 Languages and tools:**
 <div >
 <p>
 
@@ -14,11 +14,11 @@ The future is unwritten, but with technology as our tool, I believe we can sculp
 [//]: # (<a href="https://www.rust-lang.org/" target="_blank"> <img src="./assets/rust_icon_2.png" alt="rust" title="rust" width="44" /> </a> )
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="45" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="45" height="40"/> </a> 
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="./assets/rust_icon_3.png" alt="rust" title="rust" width="54"/> </a> 
 <a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" title="go" width="40" height="40"/> </a> 
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="./assets/rust_icon_3.png" alt="rust" title="rust" width="54"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="45" height="40"/> </a> 
 <a href="https://neovim.io/" target="_blank"> <img src="./assets/neovim.svg" alt="neovim" title="Neovim" width="40" height="40"/> </a> 
-<a href="https://www.vim.org/docs.php" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim" width="40" height="40"/> </a> 
+[//]: # (<a href="https://www.vim.org/docs.php" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim" width="40" height="40"/> </a> )
 
 [//]: # (<a href="https://www.swift.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" title="swift" width="45" height="40"/> </a> )
 [//]: # (<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="python" width="45" height="40"/> </a> )
